@@ -1,1 +1,1 @@
-ssh
+Secure Socket Shell
